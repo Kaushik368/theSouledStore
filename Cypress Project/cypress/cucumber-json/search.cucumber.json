@@ -1,0 +1,332 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "To validate Search Bar of THE SOULED STORE",
+    "line": 1,
+    "id": "to-validate-search-bar-of-the-souled-store",
+    "tags": [],
+    "uri": "search.feature",
+    "elements": [
+      {
+        "id": "to-validate-search-bar-of-the-souled-store;tc051",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "TC051",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "open the men's page and verify the search bar",
+            "result": {
+              "status": "passed",
+              "duration": 43418000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "verifing the search bar via screensort",
+            "result": {
+              "status": "passed",
+              "duration": 8169000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "Search Bar verified Successfully",
+            "result": {
+              "status": "passed",
+              "duration": 510000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "to-validate-search-bar-of-the-souled-store;tc052",
+        "keyword": "Scenario",
+        "line": 8,
+        "name": "TC052",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 9,
+            "name": "open the men's page and validate the search bar",
+            "result": {
+              "status": "passed",
+              "duration": 44278000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "validate the search bar using an input data",
+            "result": {
+              "status": "passed",
+              "duration": 23150000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "Search Bar validated Successfully",
+            "result": {
+              "status": "passed",
+              "duration": 761000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "to-validate-search-bar-of-the-souled-store;tc053",
+        "keyword": "Scenario",
+        "line": 13,
+        "name": "TC053",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 14,
+            "name": "open the searched page by products",
+            "result": {
+              "status": "passed",
+              "duration": 54593000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 15,
+            "name": "verifing the filter via screensort",
+            "result": {
+              "status": "passed",
+              "duration": 9680000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 16,
+            "name": "filter section verified Successfully",
+            "result": {
+              "status": "passed",
+              "duration": 252000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "to-validate-search-bar-of-the-souled-store;tc055",
+        "keyword": "Scenario",
+        "line": 18,
+        "name": "TC055",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 19,
+            "name": "open the searched page by theme",
+            "result": {
+              "status": "passed",
+              "duration": 40713000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 20,
+            "name": "verifing the filter 2 via screensort",
+            "result": {
+              "status": "passed",
+              "duration": 22440000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 21,
+            "name": "filter 2 section verified Successfully",
+            "result": {
+              "status": "passed",
+              "duration": 1047000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "to-validate-search-bar-of-the-souled-store;tc057",
+        "keyword": "Scenario",
+        "line": 23,
+        "name": "TC057",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 24,
+            "name": "open the searched page by size",
+            "result": {
+              "status": "passed",
+              "duration": 39063000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 25,
+            "name": "verifing the filter 3 via screensort",
+            "result": {
+              "status": "passed",
+              "duration": 17924000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 26,
+            "name": "filter 3 section verified Successfully",
+            "result": {
+              "status": "passed",
+              "duration": 190000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "to-validate-search-bar-of-the-souled-store;tc059",
+        "keyword": "Scenario",
+        "line": 28,
+        "name": "TC059",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 29,
+            "name": "open the searched page by color",
+            "result": {
+              "status": "passed",
+              "duration": 32172000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 30,
+            "name": "verifing the filter 4 via screensort",
+            "result": {
+              "status": "passed",
+              "duration": 9446000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 31,
+            "name": "filter 4 section verified Successfully",
+            "result": {
+              "status": "passed",
+              "duration": 375000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "to-validate-search-bar-of-the-souled-store;tc061",
+        "keyword": "Scenario",
+        "line": 33,
+        "name": "TC061",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 34,
+            "name": "open the searched page by sorting",
+            "result": {
+              "status": "passed",
+              "duration": 32056000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 35,
+            "name": "verifing the sorting via screensort",
+            "result": {
+              "status": "passed",
+              "duration": 13633000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 36,
+            "name": "sorting section verified Successfully",
+            "result": {
+              "status": "passed",
+              "duration": 487000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "to-validate-search-bar-of-the-souled-store;tc063",
+        "keyword": "Scenario",
+        "line": 38,
+        "name": "TC063",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 39,
+            "name": "open the searched page by clear button",
+            "result": {
+              "status": "passed",
+              "duration": 52855000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 40,
+            "name": "verifing the clear button via screensort",
+            "result": {
+              "status": "passed",
+              "duration": 23536000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 41,
+            "name": "clear button section verified Successfully",
+            "result": {
+              "status": "passed",
+              "duration": 312000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

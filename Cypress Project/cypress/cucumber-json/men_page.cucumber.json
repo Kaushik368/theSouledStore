@@ -1,0 +1,662 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "To validate Men's Page of THE SOULED STORE",
+    "line": 1,
+    "id": "to-validate-men's-page-of-the-souled-store",
+    "tags": [],
+    "uri": "men_page.feature",
+    "elements": [
+      {
+        "id": "to-validate-men's-page-of-the-souled-store;tc035",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "TC035",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "open the men's page and verify the carousel",
+            "result": {
+              "status": "passed",
+              "duration": 28519000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "verifing the carousel button via screensort",
+            "result": {
+              "status": "passed",
+              "duration": 10129000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "Carousel buttons verified Successfully",
+            "result": {
+              "status": "passed",
+              "duration": 720000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "to-validate-men's-page-of-the-souled-store;tc036",
+        "keyword": "Scenario",
+        "line": 8,
+        "name": "TC036",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 9,
+            "name": "open the men's page and validate the carousel",
+            "result": {
+              "status": "passed",
+              "duration": 31360000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "validate the next button on carousel",
+            "result": {
+              "status": "passed",
+              "duration": 2816000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 11,
+            "name": "validate the previous button on carousel",
+            "result": {
+              "status": "passed",
+              "duration": 2863000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 12,
+            "name": "Carousel functionality verified Successfully",
+            "result": {
+              "status": "passed",
+              "duration": 164000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "to-validate-men's-page-of-the-souled-store;tc037",
+        "keyword": "Scenario",
+        "line": 14,
+        "name": "TC037",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 15,
+            "name": "open the men's page and verify the carousel picture",
+            "result": {
+              "status": "passed",
+              "duration": 28184000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 16,
+            "name": "verifing the carousel via screensort",
+            "result": {
+              "status": "passed",
+              "duration": 9441000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 17,
+            "name": "Carousel picture verified Successfully",
+            "result": {
+              "status": "passed",
+              "duration": 206000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "to-validate-men's-page-of-the-souled-store;tc038",
+        "keyword": "Scenario",
+        "line": 19,
+        "name": "TC038",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 20,
+            "name": "open the men's page and validate the carousel picture",
+            "result": {
+              "status": "passed",
+              "duration": 36206000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 21,
+            "name": "validate if the pictures are clickable or not",
+            "result": {
+              "status": "passed",
+              "duration": 29093000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 22,
+            "name": "Carousel clickable functionality verified Successfully",
+            "result": {
+              "status": "passed",
+              "duration": 516000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "to-validate-men's-page-of-the-souled-store;tc039",
+        "keyword": "Scenario",
+        "line": 24,
+        "name": "TC039",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 25,
+            "name": "open the men's page and verify the Collections Section",
+            "result": {
+              "status": "passed",
+              "duration": 39394000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 26,
+            "name": "verify if the Section is available",
+            "result": {
+              "status": "passed",
+              "duration": 3078000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 27,
+            "name": "Collections verified Successfully",
+            "result": {
+              "status": "passed",
+              "duration": 433000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "to-validate-men's-page-of-the-souled-store;tc040",
+        "keyword": "Scenario",
+        "line": 29,
+        "name": "TC040",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 30,
+            "name": "open the men's page and validate the Collections Section",
+            "result": {
+              "status": "passed",
+              "duration": 28585000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 31,
+            "name": "validate if the pictures on the Section are clickable or not",
+            "result": {
+              "status": "passed",
+              "duration": 26389000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 32,
+            "name": "Collections clickable functionality verified Successfully",
+            "result": {
+              "status": "passed",
+              "duration": 119000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "to-validate-men's-page-of-the-souled-store;tc041",
+        "keyword": "Scenario",
+        "line": 34,
+        "name": "TC041",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 35,
+            "name": "open the men's page and verify the Categories Section",
+            "result": {
+              "status": "passed",
+              "duration": 32054000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 36,
+            "name": "verify if the categories Section is available",
+            "result": {
+              "status": "passed",
+              "duration": 1616000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 37,
+            "name": "Categories verified Successfully",
+            "result": {
+              "status": "passed",
+              "duration": 290000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "to-validate-men's-page-of-the-souled-store;tc042",
+        "keyword": "Scenario",
+        "line": 39,
+        "name": "TC042",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 40,
+            "name": "open the men's page and validate the Categories Section",
+            "result": {
+              "status": "passed",
+              "duration": 29235000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 41,
+            "name": "validate if the pictures on the categories Section are clickable or not",
+            "result": {
+              "status": "passed",
+              "duration": 32521000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 42,
+            "name": "Categories clickable functionality verified Successfully",
+            "result": {
+              "status": "passed",
+              "duration": 723000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "to-validate-men's-page-of-the-souled-store;tc043",
+        "keyword": "Scenario",
+        "line": 44,
+        "name": "TC043",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 45,
+            "name": "open the men's page and verify the Official Merchandise Section",
+            "result": {
+              "status": "passed",
+              "duration": 37150000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 46,
+            "name": "verify if the official merchandise Section is available",
+            "result": {
+              "status": "passed",
+              "duration": 1067000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 47,
+            "name": "Official Merchandise verified Successfully",
+            "result": {
+              "status": "passed",
+              "duration": 175000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "to-validate-men's-page-of-the-souled-store;tc044",
+        "keyword": "Scenario",
+        "line": 49,
+        "name": "TC044",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 50,
+            "name": "open the men's page and validate the Official Merchandise Section",
+            "result": {
+              "status": "passed",
+              "duration": 26617000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 51,
+            "name": "validate if the pictures on the official merchandise Section are clickable or not",
+            "result": {
+              "status": "passed",
+              "duration": 30159000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 52,
+            "name": "Official Merchandise clickable functionality verified Successfully",
+            "result": {
+              "status": "passed",
+              "duration": 163000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "to-validate-men's-page-of-the-souled-store;tc045",
+        "keyword": "Scenario",
+        "line": 54,
+        "name": "TC045",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 55,
+            "name": "open the men's page and verify the Top Selling Section",
+            "result": {
+              "status": "passed",
+              "duration": 31834000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 56,
+            "name": "verify if the Top Selling Section is available",
+            "result": {
+              "status": "passed",
+              "duration": 4509000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 57,
+            "name": "Top Selling verified Successfully",
+            "result": {
+              "status": "passed",
+              "duration": 191000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "to-validate-men's-page-of-the-souled-store;tc046",
+        "keyword": "Scenario",
+        "line": 59,
+        "name": "TC046",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 60,
+            "name": "open the men's page and validate the Top Selling Section",
+            "result": {
+              "status": "passed",
+              "duration": 29498000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 61,
+            "name": "validate if the pictures on the Top Selling Section are clickable or not",
+            "result": {
+              "status": "passed",
+              "duration": 21898000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 62,
+            "name": "Top Selling clickable functionality verified Successfully",
+            "result": {
+              "status": "passed",
+              "duration": 297000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "to-validate-men's-page-of-the-souled-store;tc047",
+        "keyword": "Scenario",
+        "line": 64,
+        "name": "TC047",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 65,
+            "name": "open the men's page and verify the Membership Section",
+            "result": {
+              "status": "passed",
+              "duration": 31335000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 66,
+            "name": "verify if the Membership Section is available",
+            "result": {
+              "status": "passed",
+              "duration": 1450000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 67,
+            "name": "Membership verified Successfully",
+            "result": {
+              "status": "passed",
+              "duration": 211000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "to-validate-men's-page-of-the-souled-store;tc048",
+        "keyword": "Scenario",
+        "line": 69,
+        "name": "TC048",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 70,
+            "name": "open the men's page and validate the Membership Section",
+            "result": {
+              "status": "passed",
+              "duration": 29756000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 71,
+            "name": "validate if the picture on the Membership Section is clickable or not",
+            "result": {
+              "status": "passed",
+              "duration": 21702000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 72,
+            "name": "Membership clickable functionality verified Successfully",
+            "result": {
+              "status": "passed",
+              "duration": 247000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "to-validate-men's-page-of-the-souled-store;tc049",
+        "keyword": "Scenario",
+        "line": 74,
+        "name": "TC049",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 75,
+            "name": "open the men's page and verify the Straight Out of Celebrity Closets Section",
+            "result": {
+              "status": "passed",
+              "duration": 32711000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 76,
+            "name": "verify if the Straight Out of Celebrity Closets Section is available",
+            "result": {
+              "status": "passed",
+              "duration": 625000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 77,
+            "name": "Straight Out of Celebrity Closets verified Successfully",
+            "result": {
+              "status": "passed",
+              "duration": 303000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "to-validate-men's-page-of-the-souled-store;tc050",
+        "keyword": "Scenario",
+        "line": 79,
+        "name": "TC050",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 80,
+            "name": "open the men's page and validate the Straight Out of Celebrity Closets Section",
+            "result": {
+              "status": "passed",
+              "duration": 29316000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 81,
+            "name": "validate if the picture on the Straight Out of Celebrity Closets Section is clickable or not",
+            "result": {
+              "status": "passed",
+              "duration": 26178000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 82,
+            "name": "Straight Out of Celebrity Closets clickable functionality verified Successfully",
+            "result": {
+              "status": "passed",
+              "duration": 355000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
